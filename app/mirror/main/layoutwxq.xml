@@ -1,0 +1,35 @@
+<!-- [ Mirror metadata ] generatedAt: 1470911216861 -->
+<!-- Generated screen file. Fill the id tags below with content with
+which to populate your previewed layout. For a complete specification
+of sample data, please see http://jimulabs.com/sample-data-specifications/ 
+
+Valid attributes on <screen> tag: theme="@style/someTheme" inEditMode="false" overlay="@drawable/mockup" -->
+<screen>
+    <_content layout="@layout/layoutwxq">
+        <ll_list>
+            <items layout="@android:layout/simple_list_item_1" >
+                <_item>
+                    <text1>wxq</text1>
+                </_item>
+                <_item>
+                    <text1>wxq</text1>
+                </_item>
+                <_item>
+                    <text1>123</text1>
+                </_item>
+                <_item>
+                    <text1>123</text1>
+                </_item>
+                <_item>
+                    <text1>Banana</text1>
+                </_item>
+                <_item>
+                    <text1>Lemon</text1>
+                </_item>
+                <_item>
+                    <text1>Carrot</text1>
+                </_item>
+            </items>
+                </ll_list>
+    </_content>
+</screen>
